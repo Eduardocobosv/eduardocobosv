@@ -1,7 +1,7 @@
 
         
 <h2> Hey there! I'm Eduardo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VmeDNiN3F4NGlpdzdkNWUzd3hvZmpvb3J4cXo3aTB3Z296NjdrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
