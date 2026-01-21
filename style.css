@@ -10,6 +10,14 @@ body {
     color: #e5e7eb;
     line-height: 1.6;
 }
+.profile-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 4px solid #e5e7eb;
+    margin-bottom: 20px;
+    animation: fadeDown 1s ease;
+}
 
 .hero {
     text-align: center;
