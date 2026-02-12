@@ -1,89 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Eduardo Cobo – QA Engineer</title>
-  <link rel="stylesheet" href="style.css" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eduardo Cobo – QA Engineer</title>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
-  <h1>Eduardo Cobo</h1>
-  <p>Junior QA Engineer</p>
+<h1>Eduardo Cobo</h1>
+<p id="subtitle">Junior QA Engineer</p>
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#projects">QA Projects</a>
-    <a href="#stack">Tools</a>
-    <a href="#contact">Contact</a>
-  </nav>
+<nav>
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#stack">Stack</a>
+<a href="#evidence">Evidence</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="controls">
+<button id="langToggle">ES</button>
+<button id="themeToggle">☀</button>
+</div>
 </header>
 
-<section id="about">
-  <h2>About Me</h2>
-  <p>
-    QA Engineer with hands-on experience in manual and automated testing of web applications.
-    Focused on functional validation, API testing, regression flows, and defect documentation.
-  </p>
+<section id="about" class="fade">
+<h2 data-en="About Me" data-es="Sobre mí">About Me</h2>
+<p data-en="QA Engineer with experience in manual testing, API validation, automation basics and defect reporting."
+data-es="QA Engineer con experiencia en testing manual, validación de APIs, automatización básica y reporte de defectos.">
+QA Engineer with experience in manual testing, API validation, automation basics and defect reporting.
+</p>
+
+<a class="cv" href="assets/cv.pdf" download>Download CV</a>
 </section>
 
-<section id="projects">
-  <h2>Quality Assurance Projects</h2>
+<section id="projects" class="fade">
+<h2 data-en="QA Projects" data-es="Proyectos QA">QA Projects</h2>
 
-  <div class="cards">
+<div class="cards">
 
-    <div class="card">
-      <h3>Food Delivery App Testing</h3>
-      <p><strong>Scope:</strong> Login, order lifecycle, courier flow, API validation.</p>
-      <p><strong>Tools:</strong> Postman, Selenium (Python), DevTools.</p>
-      <ul>
-        <li>Validated multi-role workflows</li>
-        <li>Reported reproducible bugs</li>
-        <li>Used Postman for backend verification</li>
-      </ul>
-      <a href="https://github.com/Eduardocobosv" target="_blank">View Repository</a>
-    </div>
+<div class="card">
+<h3>Food Delivery App</h3>
+<ul>
+<li>Login & order flow</li>
+<li>Courier-client interaction</li>
+<li>Postman API testing</li>
+</ul>
+<a href="https://github.com/Eduardocobosv">GitHub</a>
+</div>
 
-    <div class="card">
-      <h3>Authentication Flow Automation</h3>
-      <p><strong>Scope:</strong> Login testing, negative scenarios, regression.</p>
-      <p><strong>Tools:</strong> Selenium + Pytest.</p>
-      <ul>
-        <li>Automated login scenarios</li>
-        <li>Manual exploratory testing</li>
-        <li>Test case documentation</li>
-      </ul>
-      <a href="https://github.com/Eduardocobosv" target="_blank">View Repository</a>
-    </div>
+<div class="card">
+<h3>Authentication Automation</h3>
+<ul>
+<li>Selenium + Python</li>
+<li>Regression scenarios</li>
+<li>Negative cases</li>
+</ul>
+<a href="https://github.com/Eduardocobosv">GitHub</a>
+</div>
 
-  </div>
+</div>
 </section>
 
-<section id="stack">
-  <h2>QA Tools & Stack</h2>
+<section id="stack" class="fade">
+<h2 data-en="QA Stack" data-es="Stack QA">QA Stack</h2>
 
-  <ul>
-    <li>Manual Testing (Functional, Regression, Smoke)</li>
-    <li>Postman – API Testing</li>
-    <li>Selenium + Python</li>
-    <li>Pytest</li>
-    <li>Jira</li>
-    <li>Git / GitHub</li>
-    <li>Browser DevTools</li>
-    <li>Basic CI/CD Knowledge</li>
-  </ul>
+<ul class="stack">
+<li>Manual Testing</li>
+<li>Postman</li>
+<li>Selenium</li>
+<li>Python</li>
+<li>Pytest</li>
+<li>Jira</li>
+<li>GitHub</li>
+<li>DevTools</li>
+<li>CI/CD basics</li>
+</ul>
+
+<div class="badges">
+<img src="https://img.shields.io/badge/Postman-FF6C37">
+<img src="https://img.shields.io/badge/Selenium-43B02A">
+<img src="https://img.shields.io/badge/Python-3776AB">
+</div>
 </section>
 
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Email: your@email.com</p>
-  <p>GitHub: <a href="https://github.com/Eduardocobosv">github.com/Eduardocobosv</a></p>
+<section id="evidence" class="fade">
+<h2 data-en="Testing Evidence" data-es="Evidencias de Pruebas">Testing Evidence</h2>
+
+<div class="evidence">
+<img src="assets/postman.png">
+<img src="assets/selenium.png">
+</div>
 </section>
 
-<footer>
-  <p>© 2026 Eduardo Cobo</p>
-</footer>
+<section id="contact" class="fade">
+<h2 data-en="Contact" data-es="Contacto">Contact</h2>
+<p>Email: your@email.com</p>
+<p>GitHub: Eduardocobosv</p>
+</section>
 
+<footer>© 2026 Eduardo Cobo</footer>
+
+<script src="script.js"></script>
 </body>
 </html>
