@@ -57,4 +57,55 @@ The site includes:
 ---
 
 ## 📁 Repository Structure
+/
+├ index.html
+├ style.css
+├ script.js
+├ README.md
+└ assets/
+├ cv/
+│ └ Eduardo_Cobo_QA_CV.pdf
+├ screenshots/
+│ ├ postman.png
+│ └ selenium.png
+└ badges/
+
+
+---
+
+## 🧪 Example Projects
+
+### Food Delivery App Testing
+- Login flow validation
+- Order lifecycle testing
+- Courier-client interaction
+- API support using Postman
+- Backend validation with SQL
+
+### Authentication Automation
+- Selenium + Python
+- Regression scenarios
+- Negative login cases
+
+---
+
+## 🎯 Goals
+
+- Grow into a Mid QA Engineer
+- Improve automation skills
+- Learn Playwright
+- Contribute to CI/CD pipelines
+- Deepen backend testing knowledge
+
+---
+
+## 📬 Contact
+
+Email: eduardocobosqa@gmail.com 
+GitHub: https://github.com/Eduardocobosv  
+LinkedIn: https://www.linkedin.com/in/eduardocobos-qaengineer/
+
+---
+
+Thank you for visiting my portfolio.
 
