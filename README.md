@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Eduardo Cobo – Junior QA Engineer
+# 👋 Hi, I'm Eduardo Cobo – QA Engineer/Tester
 
 Welcome to my QA portfolio.
 
-I’m a Junior QA Engineer focused on delivering reliable software through structured testing, defect reporting, and basic automation.
+I’m a QA Engineer focused on delivering reliable software through structured testing, defect reporting, and basic automation.
 
 This repository hosts my personal QA portfolio website and selected testing projects.
 
