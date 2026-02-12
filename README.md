@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Eduardo Cobo – Junior QA Engineer
 
-<!--
-**Eduardocobosv/eduardocobosv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my QA portfolio.
 
-Here are some ideas to get you started:
+I’m a Junior QA Engineer focused on delivering reliable software through structured testing, defect reporting, and basic automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository hosts my personal QA portfolio website and selected testing projects.
+
+---
+
+## 🧪 About Me
+
+I have hands-on experience with:
+
+- Manual testing (functional, regression, smoke)
+- API testing using Postman
+- Basic automation with Selenium + Python
+- Bug reporting and test documentation
+- Understanding of frontend / backend flows
+- SQL basics for data validation
+- GitHub for version control
+
+My mindset is quality-first: I aim to understand how systems work before testing them.
+
+---
+
+## 🛠 QA Stack
+
+- Manual Testing
+- Postman
+- Selenium
+- Python
+- Pytest
+- Jira
+- GitHub
+- Chrome DevTools
+- CI/CD basics
+
+---
+
+## 📂 Portfolio Website
+
+Live version:
+
+👉 https://eduardocobosv.github.io/eduardocobosv/
+
+The site includes:
+
+- About me
+- QA projects
+- Tech stack
+- Testing evidence
+- Downloadable CV
+- Dark/Light mode
+- English/Spanish toggle
+
+---
+
+## 📁 Repository Structure
+
